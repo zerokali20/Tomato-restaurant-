@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerokali20/Tomato-restaurant-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerokali20/Tomato-restaurant-/issues"
+  },
+  "homepage": "https://github.com/zerokali20/Tomato-restaurant-#readme",
+  "description": ""
+}
